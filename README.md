@@ -53,8 +53,7 @@ go run main.go
 
 ## 📸 Screenshot
 
-![image](https://github.com/user-attachments/assets/b8125ff3-f9c2-47f0-bff4-62759afa5847)
-
+![image](https://github.com/user-attachments/assets/f8999d84-dae3-47bf-aa82-443a42cd0767)
 
 ## 📄 Licença
 
